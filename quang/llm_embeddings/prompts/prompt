@@ -1,0 +1,61 @@
+I am going to give you a report covers some keywords with definitions as followed:
+
+   - **Listing Type**: The specific rental arrangement offered to guests, indicating the level of privacy and type of space provided (e.g., Entire home/apt, Private room, Shared room, Hotel room).
+
+   - **Property Type**: The physical structure and characteristics of the accommodation (e.g., Apartment, House, Condominium).
+
+   - **Cancellation Policy**: The terms under which a guest can cancel a reservation, including any associated fees or refund eligibility.
+
+   - **Airbnb Response Time**: The average duration a host takes to reply to guest inquiries or booking requests.
+
+   - **Check-in Time**: The designated time when guests are permitted to begin their stay at the property.
+
+   - **Checkout Time**: The specified time by which guests must vacate the property at the end of their stay.
+
+   - **Amenities**: The features and facilities provided at the property to enhance guest comfort and convenience, such as Wi-Fi, kitchen appliances, or parking.
+
+   - **Exact Location**: The precise address or coordinates of the property, enabling guests to determine its proximity to points of interest.
+
+   - **Pets Allowed**: Indicates whether guests are permitted to bring pets to the property during their stay.
+
+   - **Instant Book Enabled**: Percentage of listings available for instant booking.
+
+   - **Bedrooms**: Number of bedrooms of a property.
+
+   - **Bathrooms**: Number of bedrooms of a property.
+
+   - **Max Guests**: Maximum guests allowed for a property.
+
+The following report gives some information about attributes and characteristics of Airbnb listings in {가락1동} for {2014-11-01}.
+
+There are a total of {2} AirBnB listing recorded. 
+
+For Listing Type, there are {2} AirBnB listings notifying about their listing type. Among them, {2} AirBnB listings offer {Private room},.....
+
+For Properties type, there are {2} AirBnB listings notifying about their Properties Type. Among them, {2} AirBnB listings are {Apartment}.
+
+For Cancelation Policy, there are {2} AirBnB listings notifying about their Cancelation Policy. Among them, {2} AirBnB listings have {Flexible} policy.
+
+For Airbnb Response Time (Text), there are {2} AirBnB listings notifying about their Airbnb Response Time (Text). Among them, {1} AirBnb listings reponse {within an hour},...
+
+
+For Check-in Time, there are {2} AirBnB listings notifying about their Check-in Time. Among them, {1} Airbnb listings allow check-in {Anytime after 2PM}, {1} Airbnb listings allow check-in {After 2PM}.
+
+For Checkout Time, there are {2} AirBnB listings notifying about their Checkout Time. Among them, {1} AirBnB listings allow check-out {10AM} ,...
+
+For Amenities, there are {2} AirBnB listings notifying about their Amenities. Among them, {2} Airbnb listings support {kitchen}, {2} Airbnb listings support {tv}, {2} Airbnb listings support {heating}, {2} Airbnb listings support {ac}, {2} Airbnb listings support {washer}, {2} Airbnb listings support {dryer}, {2} Airbnb listings support {free_parking}, {2} Airbnb listings support {wireless_internet}, {2} Airbnb listings support {cable}, {2} Airbnb listings support {breakfast}, {2} Airbnb listings support {elevator}, {1} Airbnb listings support {buzzer}, {2} Airbnb listings support {jacuzzi}, {1} Airbnb listings support {essentials}, {1} Airbnb listings support {shampoo}, {1} Airbnb listings support {first_aid_kit}, {1} Airbnb listings support {fire_extinguisher}, {1} Airbnb listings support {carbon_monoxide_detector}, {1} Airbnb listings support {smoke_detector}.
+
+For Exact Location, there are {2} AirBnB listings notifying about their Exact Location. Among them, {0.00%} of AirBnB listings offer Exact Location.
+
+For Pets Allowed, there are {2} AirBnB listings notifying about their Pets Allowed. Among them, {0.00%} of AirBnB listings offer Pets Allowed.
+
+For Instantbook Enabled, there are {2} AirBnB listings notifying about their Instantbook Enabled. Among them, {0.00%} of AirBnB listings offer Instantbook Enabled.
+
+For Bedrooms, there are {2} AirBnB listings notifying about their Bedrooms. The mean number of Bedrooms is {1.00}. Meanwhile the median number of Bedrooms is {1.00}. The mode number of Bedrooms is {1.0}. Furthermore, the min number of Bedrooms is {1.00}, while the max number of Bedrooms is {1.00}. The standard deviation is {0.00}.
+
+For Bathrooms, there are {2} AirBnB listings notifying about their Bathrooms. The mean number of Bathrooms is {1.00}. Meanwhile the median number of Bathrooms is {1.00}. The mode number of Bathrooms is {1.0}. Furthermore, the min number of Bathrooms is {1.00}, while the max number of Bathrooms is {1.00}. The standard deviation is {0.00}.
+
+For Max Guests, there are {2} AirBnB listings notifying about their Max Guests. The mean number of Max Guests is {1.00}. Meanwhile the median number of Max Guests is {1.00}. The mode number of Max Guests is {1.0}. Furthermore, the min number of Max Guests is {1.00}, while the max number of Max Guests is {1.00}. The standard deviation is {0.00}.
+
+
+Assume you are a data analyst with high experience in analyzing AirBnB market. Ensure the analysis is concise and highlights key trends and statistics for most properties of {가락1동} in {2014-11-01}.

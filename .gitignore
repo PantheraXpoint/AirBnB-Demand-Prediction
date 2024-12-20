@@ -1,0 +1,32 @@
+sig/
+emd/
+emd2/
+
+Hongju/cache
+quang/.ipynb_checkpoints
+
+
+# Ignore .zip files (case-insensitive)
+*.[zZ][iI][pP]
+
+# Ignore all GPickle files
+*.gpickle
+
+# Ignore all Excel files
+*.xlsx
+
+# Ignore all text files
+*.txt
+
+# Ignore all model files
+*.pth
+*.npz
+
+#ignore all the csv files
+*.csv
+
+#ignore all the json files
+*.json
+
+# Do not ignore README.md
+!README.md
